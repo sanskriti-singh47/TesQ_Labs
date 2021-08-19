@@ -1,0 +1,61 @@
+.navbar {
+    background-color: #ffffff;
+    margin-top: 1.45%;
+}
+.navbar-toggler{
+    position: relative;
+    margin-left:75%;
+    margin-top: 1.45%;
+    border: none;
+}
+
+/* TESQ Labs */
+
+.brand {
+    position: absolute;
+    left: 15.25%;
+    right: 76.94%;
+    top: 1.45%;
+    bottom: 97.85%;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 24px;
+    color: #233348;
+    mix-blend-mode: normal;
+}
+.brand:hover {
+    text-decoration-line: underline;
+    text-decoration-color: #05AA9E;
+    text-decoration-thickness: 20%;
+}
+[data-letters]:before {
+    content: attr(data-letters);
+    display: inline-block;
+    font-size: 1em;
+    width: 41px;
+    height: 41px;
+    line-height: 1.9em;
+    text-align: center;
+    border-radius: 50%;
+    background: #05AA9E;
+    vertical-align: middle;
+    margin-right: 1em;
+    color: #ffffff;
+    font-family: Mulish;
+}
+/*Nav Links */
+
+.nav-item {
+    color: #1f1534;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+}
+.nav-link:hover {
+    text-decoration-line: underline;
+    text-decoration-color: #05AA9E;
+    text-decoration-thickness: 20%;
+}

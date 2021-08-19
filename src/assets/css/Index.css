@@ -1,0 +1,216 @@
+.title-m {
+  color: #000000;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 210%;
+}
+.text-t {
+  color: #7d7987;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.card-d {
+  border: none;
+}
+.btn-m {
+  background: #05aa9e;
+  border-radius: 55px;
+}
+.card-m {
+  margin-top: 15%;
+  padding-left: 20%;
+}
+.card-mn {
+  margin-top: 15%;
+  padding-left: 20%;
+}
+.con-b {
+  margin-top: 9%;
+}
+.con-bm{
+  margin-top: 9%;
+}
+.title-bm{
+  margin-top: 10%;
+  text-align: center;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+}
+.title-be {
+  margin-top: 10%;
+  text-align: center;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+}
+.border-be {
+  border-bottom: 3px solid #000000;
+  width: 56px;
+  padding-top: 3%;
+  margin: auto;
+}
+.text-mb {
+  text-align: center;
+  margin-top: 4%;
+  color: #7d7987;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+}
+.card-be {
+  width: 75%;
+ margin-left:10%;
+ border: none;
+ margin-bottom: 2%;
+}
+.card-bm{
+  width: 75%;
+ margin-left:10%;
+ border: none;
+ margin-bottom: 2%;
+}
+.border-a {
+  border-bottom: 3px solid #000000;
+  width: 56px;
+  padding-top: 10%;
+}
+.border-ad {
+  border-bottom: 3px solid #000000;
+  width: 56px;
+  padding-top: 10%;
+}
+.text-a {
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+  margin-top: 5%;
+}
+
+.de-con {
+  margin-top: 5%;
+  position: relative;
+}
+.img-d {
+  position: absolute;
+  width: 50%;
+  height: 70%;
+  margin-top:3% ;
+}
+.dea-card {
+background: #FFFFFF;
+box-shadow: 20px 45px 55px rgba(107, 105, 105, 0.308);
+border-radius: 20px;
+width: 350px;
+height: 354px;
+margin-top: 3%;
+border: #ffffff;
+
+}
+.c-de{
+  padding-left: 10%;
+}
+.de-title {
+  font-family: mulish;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 56px;
+  color: #000000;
+  padding-left: 3%;
+}
+.de-title1 {
+  font-family: mulish;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 56px;
+  color: #000000;
+  text-align: center;
+}
+.dea-img {
+  margin-left: 30%;
+  margin-top: 6%;
+  width: 35%;
+  height: 40%;
+}
+.car-a {
+  background: linear-gradient(208.18deg, #08d9ca 9.05%, #05aa9e 76.74%);
+  border-radius: 24px;
+  width: 70%;
+  height: 100%;
+  margin: auto;
+  margin-top: 10%;
+}
+.h-de {
+  padding-top: 5%;
+  margin-left: 28%;
+  color: #ffffff;
+  font-weight: 800;
+  font-family: Mulish;
+}
+.de-imge {
+  padding-bottom: 5%;
+  border-radius: 50%;
+}
+.r {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.border-de {
+  border-bottom: 3px solid #ffffff;
+  width: 56px;
+  padding-top: 3%;
+  margin-left: 25%;
+}
+.p {
+  font-family: mulish;
+  font-weight: 400;
+  font-size: 18px;
+}
+.h-d {
+  margin-left: 2%;
+  margin-top: 5%;
+  font-size: 22px;
+  color: #ffffff;
+  font-family: mulish;
+}
+.w-d {
+  margin-right: 16%;
+  font-family: mulish;
+  font-weight: normal;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.card-dm {
+  border: none;
+}
+.card-mm {
+  margin-top: 15%;
+  padding-left: 20%;
+}
+.title-mm {
+  color: #000000;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 210%;
+}
+.border-am {
+  border-bottom: 3px solid #000000;
+  width: 56px;
+  padding-top: 10%;
+}

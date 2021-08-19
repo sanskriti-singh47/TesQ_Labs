@@ -1,0 +1,37 @@
+.con-b{
+ margin-top: 2%;
+
+}
+
+ .card-b{
+     margin-top: 10%;
+     padding-left: 20%;
+ }
+ .title{
+    
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+ }
+ .text-b{
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;
+ }
+ .card-c{
+    border: none;
+ }
+ .btn-b{
+    background: #05AA9E;
+    border-radius: 55px;
+    width:40%;
+    border: none;
+ }
+ .btn-b:hover{
+   background: #05AA9E;
+ }

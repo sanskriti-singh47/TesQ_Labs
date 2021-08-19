@@ -1,0 +1,204 @@
+    .title-m {
+    color: #000000;
+    font-family: mulish;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 210%;
+    margin-top: 5%;
+  }
+  .text-t {
+    color: #7d7987;
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .btn-m {
+    background: #00BFA6;
+    border-radius: 55px;
+  }
+  .card-m {
+    margin-top: 15%;
+    padding-left: 20%;
+  }
+    
+  .card-d {
+    border: none;
+    padding-top: 5%;
+  }
+  .title-b {
+    margin-top: 10%;
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+    margin-left: 15%;
+  }
+  .border-b {
+    border-bottom: 3px solid #000000;
+    width: 56px;
+    padding-top: 3%;
+    margin-left: 12%;
+  }
+  .card-b{
+    width: 75%;
+    margin: auto;
+    border: none;
+  }
+  .border-a {
+    border-bottom: 3px solid #000000;
+    width: 56px;
+    padding-top: 10%;
+  }
+  .text-a {
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987;
+    margin-top: 5%;
+  }
+.title-a{
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000; 
+}
+
+.text-mes {
+    text-align: center;
+    margin-top: 4%;
+    color: #7d7987;
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+  }
+  .d-card{
+      margin: auto;
+      border: none;
+      margin-top: 10%;
+  }
+  .d-title{
+    font-family: mulish;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+  }
+  .d-text{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    padding-top: 3%;
+  }
+
+  .des-con {
+    margin-top: 5%;
+    position: relative;
+  }
+  .img-ds {
+    position: absolute;
+    width: 50%;
+    height: 70%;
+    margin-top:3% ;
+  }
+  .des-card {
+    
+  background: #FFFFFF;
+  box-shadow: 20px 45px 55px rgba(90, 88, 88, 0.4);
+  border-radius: 20px;
+  width: 350px;
+  height: 354px;
+  margin-top: 3%;
+  border: #FFFFFF;
+  }
+  .c-des{
+    padding-left: 10%;
+  }
+
+  .des-text1 {
+    font-family: mulish;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 56px;
+    color: #000000;
+    text-align: center;
+  }
+
+  .des-img {
+    margin-left: 30%;
+    margin-top: 6%;
+    width: 35%;
+    height: 40%;
+  }
+.des-title{
+  font-family: mulish;
+font-weight: 300;
+font-size: 16px;
+color: #7D7987;
+}
+.card-es{
+  width: 75%;
+  margin: auto;
+  border: none;
+}
+.title-es{
+  margin-top: 10%;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  margin-left: 35%;
+
+}
+.border-es{
+  border-bottom: 3px solid #000000;
+  width: 56px;
+  padding-top: 3%;
+ margin-left: 15%;
+
+}
+.text-es{
+  text-align: center;
+  margin-top: 4%;
+  color: #7d7987;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+
+}
+.card-bes{
+  width: 75%;
+  margin: auto;
+  border: none;
+}
+.border-bes{
+  border-bottom: 3px solid #000000;
+  width: 56px;
+  padding-top: 3%;
+ margin-left: 30%;
+
+}
+.title-bes{
+  margin-top: 10%;
+  font-family: mulish;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  margin-left: 25%;
+
+}
